@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @lordsteve
-- 👀 I’m interested in D&D, Star Trek, and video games
-- 🌱 I’m currently learning how to code. Probably gonna focus on Python or something like that.
-- 💞️ I’m looking to collaborate on anything that will help me learn more.
+- 👀 Check out [The Green Asterisk](https://www.thegreenasterisk.com) for my stuff
 - 📫 How to reach me: email live.remix@gmail.com, or tweet <a href="http://twitter.com/lordsteve">@lordsteve</a>.
 
 <!---
